@@ -1,2 +1,4 @@
 jupyterlab
+numpy
+pandas
 torch --index-url https://download.pytorch.org/whl/cu118
